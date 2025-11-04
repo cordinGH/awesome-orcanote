@@ -34,27 +34,49 @@
 
 提升您的生产力和工作流程的插件。
 
-<!-- 示例格式：
-- **[插件名称](链接)** - 插件功能的简要描述。
-  - 作者：[@用户名](链接)
+- **[Simple Task](https://github.com/sethyuan/orca-simple-task)** - 帮助你使用 Orca Note 的标签系统快速创建任务的插件。
+  - 作者：[@sethyuan](https://github.com/sethyuan)
   - 许可证：MIT
--->
+
+- **[Random Walk](https://github.com/sethyuan/orca-random-walk)** - 帮助你回顾/复习笔记的插件（随机漫步复盘）。
+  - 作者：[@sethyuan](https://github.com/sethyuan)
+  - 许可证：MIT
 
 #### 笔记管理
 
 用于组织、搜索和管理笔记的插件。
 
+- **[Linker](https://github.com/sethyuan/orca-plugin-linker)** - 帮助将大型资源放在 Orca Note 外管理，并创建虚拟路径以引用这些资源的插件。
+  - 作者：[@sethyuan](https://github.com/sethyuan)
+  - 许可证：MIT
+
 #### 格式化与编辑
 
 增强文本格式化和编辑功能的插件。
+
+- **[Hidden Text](https://github.com/sethyuan/orca-plugin-hidden-text)** - 提供隐藏选中文本功能的插件（可用于折叠/遮掩内容）。
+  - 作者：[@sethyuan](https://github.com/sethyuan)
+  - 许可证：MIT
 
 #### 导入导出
 
 用于导入或导出各种格式的插件。
 
+- **[Share Card](https://github.com/sethyuan/orca-plugin-share-card)** - 将笔记导出为卡片（图片）以便在手机上分享的插件。
+  - 作者：[@sethyuan](https://github.com/sethyuan)
+  - 许可证：MIT
+
 #### 集成
 
 将 Orca Note 与其他应用程序和服务集成的插件。
+
+- **[Flomo Sync](https://github.com/sethyuan/orca-flomo-sync)** - 将 Flomo 笔记同步到 Orca Note 的插件（同步到日记）。
+  - 作者：[@sethyuan](https://github.com/sethyuan)
+  - 许可证：MIT
+
+- **[Dinox Sync](https://github.com/sethyuan/orca-dinox-sync)** - 将 Dinox 笔记同步到 Orca Note 的插件（同步到日记）。
+  - 作者：[@sethyuan](https://github.com/sethyuan)
+  - 许可证：MIT
 
 #### 可视化
 
@@ -64,11 +86,19 @@
 
 为使用 Orca Note 的开发者提供的工具和插件。
 
+- **[orca-plugin-template](https://github.com/sethyuan/orca-plugin-template)** - 为构建 Orca Note 插件提供的基础模板（入门示例）。
+  - 作者：[@sethyuan](https://github.com/sethyuan)
+  - 许可证：MIT
+
 ---
 
 ### 主题
 
 美化 Orca Note 外观的主题。
+
+- **[Official Themes](https://github.com/sethyuan/orca-plugin-official-themes)** - Orca Note 的官方主题集合，提供可安装的主题样式。
+  - 作者：[@sethyuan](https://github.com/sethyuan)
+  - 许可证：MIT
 
 ---
 
@@ -76,7 +106,9 @@
 
 #### 官方资源
 
-- [Orca Note 官方仓库](https://github.com/sethyuan/orca-note)
+- [官网](https://www.orca-studio.com/orcanote/)
+- [官方仓库](https://github.com/sethyuan/orca-note)
+- [插件文档](https://www.orca-studio.com/orcanote-docs/documents/Quick_Start.html)
 
 #### 教程
 
@@ -84,9 +116,7 @@
 
 #### 社区
 
-- 讨论区
-- 论坛
-- 社交媒体
+- QQ 频道 ID: hujingbiji
 
 ---
 
@@ -108,5 +138,3 @@
 ## 许可证
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内，[Seth Yuan](https://github.com/sethyuan) 已放弃本作品的所有版权及相关或邻接权利。
