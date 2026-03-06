@@ -4,6 +4,7 @@
     "id": "random-walk",
     "name": "Random Walk",
     "description": "A plugin to help you recap/review notes (random-walk review).",
+    "category": "Productivity",
     "icon_png": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADpklEQVR42t2WbWiTVxTHL2NvjFoG2/DLmErtVHS0W7c5xopuRQZjAwcqbebLUmtbU1ftWtvOKYuGdmpsXdq4GjpZnTZZ0pq0SfOiJo0aXXW4CRuFokWpQrG+IOJblZzz9z4xvoKi4PMo/uBwP9wP/3PP+d97rngmMALPmXYjfcVOvFsZwEcVQUxdGkCa0IoCD/02383D+dsYehlzXYw8B53cfABvCy1Y4OGdhR5GUQejWMbnNsJ4E2FeK1mFFmz4C2NbDqHC8R/vKvMzPlwvE6ghZNXH9wstODqEkat3w6y0YKadkWkmvFdHmLWFtqgu/nMUY0u87Mv7k5EIByHHRnJlLA/jS9WEXb14sTwIw5w2PqUIy9NfWtnN+zf0kKXAw8fnb8Pe3w/hVVXEq0LXMqRISBGe7WQYvLx9XQxZtzwRRYrxIF557MLronjd4CWzzsnndVK8wM1DK8Iw9MpqCDWJRvF8mR+6uW18ONeRuOdXlnRRy/oejBZqszw4PE7eb3+ek/kbJ6O4k/+p2YMcIVH/1F1kmOPi07qEyejM0hAWu2R/VRdXTLTIRy1SXCk3Sr0cXNM9PE5oRUkHlXzbzpDv+6XqEKoCR/CS0JIlPhilw0+v6kaleBL8fQJTzDF8PXQR04TWzNoan5e7lQdNEaaGHj5RHeJYiRfORZ2Yqb7ze5EyxUoDE2oJnzRS4m3PlaEYUd/G5xcHoa4RpdlSp9n4VJqRMKFGJmElzJYJ/BRmVIX4nO0g3hJqo3PQvxlmwqdNBOUaLnAzftzBqIvBOHAWE4XaFHdwaPpmhs7OKPUxEt+sdkahR0kEsYYDyBBq8n2APcrJV0WYIv34zBShXwyd3HczEZngheqgnAP7rmUKNSj3o17nZJT5ue8skJqc/SnLtsfzpXi/PvnxLPLw5fIAwqYoZmzqw4gH/pp9jzCap7ci6+ONNPhFC3fdu1cbxmuVAVQt7OR+pSLKa6msCzv4aEUAjbW7kB09hpdFEr0Lb2RZqfmdBhqYaKFWg+sh58hU29Xxkzci/X77m/ZixA9hzJAeCRe6+bI+2Z4Cd8I3h1dGYK/bQ80ZFj42xkwYvfZGvG+N54vHjWUfJi3bgdXfeblPSUCfrEqOjfFmDWHU2tuR2Uh2oRZK6WWLssuDsMqWDGb/yhi15u4EJlniTqEFzf9jZJ6d2+8UV1rxQRNKhVYYA0hNr6dWKTycVkfxyU0cVUwptOarPzCmqB3phTa8IJ5GrgM6JZ1ZeTNEFAAAAABJRU5ErkJggg==",
     "version": "0.2.0",
     "updated": "2026-03-06T08:00:00Z",
@@ -21,14 +22,33 @@
     "id": "task-confetti",
     "name": "Task Confetti",
     "description": "Celebrates task completion with confetti.",
+    "category": "Productivity",
     "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" width=\"64\" height=\"64\"><defs><linearGradient id=\"checkGradient\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:#4ade80;stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:#22c55e;stop-opacity:1\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"#f0fdf4\" stroke=\"#86efac\" stroke-width=\"2\"/><path d=\"M18 32 L28 42 L46 24\" stroke=\"url(#checkGradient)\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/><circle cx=\"12\" cy=\"14\" r=\"3\" fill=\"#ef4444\"/><circle cx=\"8\" cy=\"20\" r=\"2\" fill=\"#f59e0b\"/><circle cx=\"16\" cy=\"10\" r=\"2.5\" fill=\"#8b5cf6\"/><rect x=\"50\" y=\"12\" width=\"5\" height=\"3\" rx=\"1\" fill=\"#06b6d4\" transform=\"rotate(30 52 13.5)\"/><rect x=\"54\" y=\"18\" width=\"4\" height=\"4\" rx=\"0.5\" fill=\"#ec4899\" transform=\"rotate(45 56 20)\"/><circle cx=\"48\" cy=\"8\" r=\"2\" fill=\"#10b981\"/><polygon points=\"10,48 12,52 8,52\" fill=\"#f97316\"/><circle cx=\"14\" cy=\"54\" r=\"2\" fill=\"#6366f1\"/><rect x=\"50\" y=\"48\" width=\"4\" height=\"4\" rx=\"0.5\" fill=\"#eab308\" transform=\"rotate(-15 52 50)\"/><circle cx=\"54\" cy=\"44\" r=\"2\" fill=\"#14b8a6\"/><polygon points=\"56,52 58,56 54,56\" fill=\"#f43f5e\"/><g fill=\"#fbbf24\"><path d=\"M20 8 L21 10 L23 11 L21 12 L20 14 L19 12 L17 11 L19 10 Z\"/><path d=\"M44 10 L45 12 L47 13 L45 14 L44 16 L43 14 L41 13 L43 12 Z\"/><path d=\"M8 40 L9 42 L11 43 L9 44 L8 46 L7 44 L5 43 L7 42 Z\"/><path d=\"M56 34 L57 36 L59 37 L57 38 L56 40 L55 38 L53 37 L55 36 Z\"/></g></svg>",
     "version": "0.1.1",
-    "updated": "2026-03-06T08:00:00Z",
+    "updated": "2026-03-06T10:00:00Z",
     "home": "https://github.com/sethyuan/task-confetti",
     "zip": "https://github.com/sethyuan/task-confetti/releases/download/v0.1.1/task-confetti-v0.1.1.zip",
     "translations": {
       "zh": {
         "description": "任务完成时播放五彩纸屑特效。"
+      }
+    }
+  },
+  {
+    "author": "@hqweay",
+    "id": "dino-toolbox",
+    "name": "Dino Toolbox",
+    "description": "One-click formatting for Chinese typography; inline style cleanup; VoiceNotes synchronization; CSV and Markdown import; etc...",
+    "category": "Note Management",
+    "icon_png": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABHVBMVEUAAABAUjcAAABKUDUwQCsAAABAVzfj76cAAAAAAAA9Qy4pNCNWXUA7PSsaGhMgIhcAAAAOEwyps34ABAAAAABHSzUxOCZnbUxUVzwwQysaIhdiZkgnNiNZXUFSVjx5f1hdYUQmMyEyRCxxeFNhZ0g+Uzdpjl1qj155f1lqcE5mcU5NZ0Q6TjOJkWV7gVp9g1xyeFRPa0ZQbUc9TzPj8afj76fV4J3R3pu82aG52J/G0ZLBzpC/zY6u0pemzpGgy4y1wIayv4SbyIiWxoSRxYCQw4Cqs32frXiHt3iArHGUoG9+qnCTn291n2h1nmiIk2ZskmBjhlhaelBib0xjaUlRbkhVaUZVaEZLY0FIYUA/VTgkMCAbJRgSGBAAAAAe7lYKAAAANHRSTlMAHCAwMDA4QEBQWFhobGxwcHyAgICMjJSYmZynsLjHy9fX29/f3+vv7+/v7+/z8/f39/v9Px7oqQAAAT1JREFUeNp90+lWwjAQhuFB3Pd9RcUFFRVRdBRxwYUPq1WoVVQUuf/LMHPahpwD8fmX5m0z+VEyxcucpv+wkiS7MRZEkzsr/dTJchC8M3PfOHUwcvn0/MDDLHradruPHAT8qgratj2Y3jLMp2RYRwmGEtyLE6YWH+1ujKCGTmb1/j5M+iwnezAYzAfhedC+AfHFvBQMIC81m4j8NMMzzzgrAYQZ/DbDT3wUSEkAotFoXTFqHdsV9JxpCdzW4za3m+EIV/n8eRGaXleTQXCdF9D0epcUR759V7wHXGiyVoYkqCDio45XmHhGBTlE3BpqLzDxqgoWYVWZIyUGixI+yxJMex22AAcA84YKBrZhU+B5FXT17sHmOJ4ZJSUHm0dmEgnYuIcUSLm2giKxiVTO94Qfqos1HWCKQlsL5i/zB4WqwKUMD44yAAAAAElFTkSuQmCC",
+    "version": "1.12.6",
+    "updated": "2026-03-06T09:00:00Z",
+    "home": "https://github.com/hqweay/orca-hqweay-go",
+    "zip": "https://github.com/hqweay/orca-hqweay-go/releases/download/v1.12.6/package.zip",
+    "translations": {
+      "zh": {
+        "name": "恐龙工具箱",
+        "description": "提供：中文排版一键格式化；行内样式清理；VoiceNotes 同步；CSV、Markdown 导入……等功能。"
       }
     }
   }

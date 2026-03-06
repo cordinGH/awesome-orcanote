@@ -22,7 +22,7 @@ if (path.extname(absolutePath).toLowerCase() !== ".png") {
 
 try {
   const fileBuffer = fs.readFileSync(absolutePath);
-  const base64String = `data:image/png;base64,${fileBuffer.toString("base64")}`;
+  const base64String = fileBuffer.toString("base64");
 
   // Output to console
   console.log(base64String);
