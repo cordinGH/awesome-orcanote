@@ -28,7 +28,6 @@ To add or update a plugin, you need to modify the [plugins.json](plugins.json) f
    - `LICENSE`: The license for the plugin.
    - `icon.png` or `icon.svg`: The icon file.
 1. **Alphabetical Order**: Insert new plugins into the list in alphabetical order by `author` first then by `id`.
-1. **Individual PRs**: Submit an individual pull request for each plugin suggestion.
 
 ### Quality Standards
 
@@ -71,7 +70,6 @@ Plugins should meet the following criteria:
    - `LICENSE`：内含插件的协议文件。
    - `icon.png`或 `icon.svg`：图标文件。
 5. **字母排序**：请先按作者顺序再按插件 ID 的字母顺序将新插件插入列表。
-6. **独立 PR**：每个插件的建议应单独提交一个拉取请求。
 
 ### 质量标准
 
