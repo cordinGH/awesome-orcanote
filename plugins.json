@@ -76,6 +76,177 @@
     }
   },
   {
+    "author": "SaXz2",
+    "id": "easymotion",
+    "name": "EasyMotion",
+    "description": "A Vim-style EasyMotion quick navigation plugin for Orca Note, supporting Chinese, Pinyin, and English mixed search.",
+    "category": "Productivity",
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 80 80\" width=\"80\" height=\"80\"><circle cx=\"40\" cy=\"40\" r=\"38\" fill=\"#1e1e2e\" stroke=\"#89b4fa\" stroke-width=\"2\"/><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"#cdd6f4\" stroke-width=\"4\" stroke-linecap=\"round\"/><line x1=\"43\" y1=\"43\" x2=\"56\" y2=\"56\" stroke=\"#cdd6f4\" stroke-width=\"4\" stroke-linecap=\"round\"/><polyline points=\"26,28 30,34 24,34 32,42\" fill=\"none\" stroke=\"#f38ba8\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>",
+    "version": "1.0.0",
+    "updated": "2026-03-20T07:30:40Z",
+    "home": "https://github.com/SaXz2/orca-EasyMotion-plugin",
+    "zip": "https://github.com/SaXz2/orca-EasyMotion-plugin/releases/download/v1.0.0/orca-easymotion-plugin.zip",
+    "translations": {
+      "zh": {
+        "name": "EasyMotion 快速导航",
+        "description": "一个为虎鲸笔记设计的类 Vim EasyMotion 快速导航插件，支持中文、拼音、英文混合搜索。",
+        "category": "效率工具"
+      }
+    }
+  },
+  {
+    "author": "SaXz2",
+    "id": "folder",
+    "name": "Folder",
+    "description": "A document tree management plugin for Orca Note with notebook and folder hierarchy organization.",
+    "category": "Note Management",
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 3h18v18H3z\"/><path d=\"M7 7h10M7 11h10M7 15h6\"/><path d=\"M12 3v18\"/></svg>",
+    "version": "1.0.0",
+    "updated": "2026-03-20T07:30:54Z",
+    "home": "https://github.com/SaXz2/orca-folder-plugin",
+    "zip": "https://github.com/SaXz2/orca-folder-plugin/releases/download/v1.0.0/orca-folder-plugin.zip",
+    "translations": {
+      "zh": {
+        "name": "文档树",
+        "description": "一个为虎鲸笔记设计的文档树管理插件，提供笔记本和文件夹的层级管理功能，支持拖拽排序与数据持久化。",
+        "category": "笔记管理"
+      }
+    }
+  },
+  {
+    "author": "SaXz2",
+    "id": "link-icons",
+    "name": "Link Icons",
+    "description": "Automatically fetches and displays website favicons for links in Orca Note with multi-source support and local caching.",
+    "category": "Visualization",
+    "icon_png": "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",
+    "version": "1.0.0",
+    "updated": "2026-03-20T07:31:12Z",
+    "home": "https://github.com/SaXz2/orca-link_icons-plugin",
+    "zip": "https://github.com/SaXz2/orca-link_icons-plugin/releases/download/v1.0.0/orca-link-icons-plugin-v1.0.0.zip",
+    "translations": {
+      "zh": {
+        "name": "链接图标增强",
+        "description": "自动为虎鲸笔记中的链接获取并显示网站图标，支持多源获取和本地缓存。",
+        "category": "可视化"
+      }
+    }
+  },
+  {
+    "author": "SaXz2",
+    "id": "page-display",
+    "name": "Page Display",
+    "description": "A page space display plugin for Orca Note with block type icons, multi-row/column layout, and global search.",
+    "category": "Visualization",
+    "icon_svg": "<svg width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"#4A90E2\" stroke=\"#2E5BBA\" stroke-width=\"2\"/><rect x=\"18\" y=\"14\" width=\"28\" height=\"36\" rx=\"2\" fill=\"white\" stroke=\"#2E5BBA\" stroke-width=\"1.5\"/><line x1=\"22\" y1=\"22\" x2=\"42\" y2=\"22\" stroke=\"#2E5BBA\" stroke-width=\"1.5\" stroke-linecap=\"round\"/><line x1=\"22\" y1=\"26\" x2=\"38\" y2=\"26\" stroke=\"#2E5BBA\" stroke-width=\"1.5\" stroke-linecap=\"round\"/><line x1=\"22\" y1=\"30\" x2=\"40\" y2=\"30\" stroke=\"#2E5BBA\" stroke-width=\"1.5\" stroke-linecap=\"round\"/><line x1=\"22\" y1=\"34\" x2=\"36\" y2=\"34\" stroke=\"#2E5BBA\" stroke-width=\"1.5\" stroke-linecap=\"round\"/><line x1=\"22\" y1=\"38\" x2=\"42\" y2=\"38\" stroke=\"#2E5BBA\" stroke-width=\"1.5\" stroke-linecap=\"round\"/><line x1=\"22\" y1=\"42\" x2=\"34\" y2=\"42\" stroke=\"#2E5BBA\" stroke-width=\"1.5\" stroke-linecap=\"round\"/><path d=\"M46 20 Q50 20 50 24 Q50 28 46 28\" stroke=\"white\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M46 36 Q50 36 50 40 Q50 44 46 44\" stroke=\"white\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\"/><rect x=\"48\" y=\"22\" width=\"10\" height=\"6\" rx=\"1\" fill=\"white\" stroke=\"#2E5BBA\" stroke-width=\"1\"/><rect x=\"48\" y=\"38\" width=\"10\" height=\"6\" rx=\"1\" fill=\"white\" stroke=\"#2E5BBA\" stroke-width=\"1\"/><line x1=\"50\" y1=\"24\" x2=\"56\" y2=\"24\" stroke=\"#2E5BBA\" stroke-width=\"1\" stroke-linecap=\"round\"/><line x1=\"50\" y1=\"26\" x2=\"54\" y2=\"26\" stroke=\"#2E5BBA\" stroke-width=\"1\" stroke-linecap=\"round\"/><line x1=\"50\" y1=\"40\" x2=\"56\" y2=\"40\" stroke=\"#2E5BBA\" stroke-width=\"1\" stroke-linecap=\"round\"/><line x1=\"50\" y1=\"42\" x2=\"54\" y2=\"42\" stroke=\"#2E5BBA\" stroke-width=\"1\" stroke-linecap=\"round\"/><rect x=\"8\" y=\"18\" width=\"8\" height=\"4\" rx=\"1\" fill=\"#FF6B6B\" stroke=\"#D63031\" stroke-width=\"1\"/><text x=\"12\" y=\"21\" font-family=\"Arial, sans-serif\" font-size=\"3\" fill=\"white\" text-anchor=\"middle\">#</text><path d=\"M12 32 L16 32\" stroke=\"white\" stroke-width=\"2.5\" stroke-linecap=\"round\"/><path d=\"M14 30 L16 32 L14 34\" stroke=\"white\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\"/></svg>",
+    "version": "1.3.0",
+    "updated": "2026-03-20T07:31:26Z",
+    "home": "https://github.com/SaXz2/orca-page-display-plugins",
+    "zip": "https://github.com/SaXz2/orca-page-display-plugins/releases/download/v1.3.0/orca-page-display-plugin-1.3.0.zip",
+    "translations": {
+      "zh": {
+        "name": "页面空间",
+        "description": "为虎鲸笔记提供页面空间显示功能，支持块类型图标切换、多行多列显示及全局搜索。",
+        "category": "可视化"
+      }
+    }
+  },
+  {
+    "author": "SaXz2",
+    "id": "snippets",
+    "name": "Snippets",
+    "description": "A CSS and JavaScript code snippet manager for Orca Note with syntax highlighting, search, and import/export.",
+    "category": "Editing",
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" width=\"32\" height=\"32\"><path d=\"M9.5 8.917c-0.391 0-0.745 0.159-1.002 0.415l-5.667 5.667c-0.256 0.256-0.415 0.611-0.415 1.002s0.158 0.745 0.415 1.002l5.667 5.667c0.256 0.256 0.611 0.415 1.002 0.415s0.745-0.159 1.002-0.415v0c0.256-0.256 0.415-0.61 0.415-1.002s-0.159-0.745-0.415-1.002l-4.665-4.665 4.665-4.665c0.256-0.256 0.415-0.611 0.415-1.002s-0.159-0.745-0.415-1.002v0c-0.256-0.256-0.61-0.415-1.002-0.415v0z\" fill=\"currentColor\"/><path d=\"M22.5 8.917c-0.391 0-0.745 0.159-1.002 0.415v0c-0.256 0.256-0.415 0.611-0.415 1.002s0.159 0.745 0.415 1.002l4.665 4.665-4.665 4.665c-0.256 0.256-0.415 0.61-0.415 1.002s0.159 0.745 0.415 1.002v0c0.256 0.256 0.61 0.415 1.002 0.415s0.745-0.159 1.002-0.415l5.667-5.667c0.256-0.256 0.415-0.611 0.415-1.002s-0.158-0.745-0.415-1.002l-5.667-5.667c-0.256-0.256-0.611-0.415-1.002-0.415v0z\" fill=\"currentColor\"/><path d=\"M19.965 3.314c-0.127-0.041-0.273-0.065-0.424-0.065-0.632 0-1.167 0.413-1.35 0.985l-0.003 0.010-7.083 22.667c-0.041 0.127-0.065 0.273-0.065 0.424 0 0.632 0.413 1.167 0.985 1.35l0.010 0.003c0.127 0.041 0.273 0.065 0.424 0.065 0.632 0 1.167-0.413 1.35-0.985l0.003-0.010 7.083-22.667c0.041-0.127 0.065-0.273 0.065-0.424 0-0.632-0.413-1.167-0.985-1.35l-0.010-0.003z\" fill=\"currentColor\"/></svg>",
+    "version": "1.0.2",
+    "updated": "2026-03-20T07:34:01Z",
+    "home": "https://github.com/SaXz2/orca-snippets-plugin",
+    "zip": "https://github.com/SaXz2/orca-snippets-plugin/releases/download/v1.0.2/orca-snippets-plugin.zip",
+    "translations": {
+      "zh": {
+        "name": "代码片段管理器",
+        "description": "一个为虎鲸笔记设计的 CSS 和 JavaScript 代码片段管理插件，支持语法高亮、搜索及导入导出。",
+        "category": "编辑工具"
+      }
+    }
+  },
+  {
+    "author": "SaXz2",
+    "id": "tabs",
+    "name": "Tabs",
+    "description": "Adds browser-style tab management to Orca Note with multi-panel support, workspaces, drag-and-drop sorting, and recently closed tabs.",
+    "category": "Visualization",
+    "icon_png": "/9j/6zMdSlAkAAAAAAAAADMTanVtYgAAAB5qdW1kYzJwYQARABCAAACqADibcQNjMnBhAAAAMu1qdW1iAAAAR2p1bWRjMm1hABEAEIAAAKoAOJtxA3Vybjp1dWlkOjU1M2JjODE4LTZiYTgtNDE1NS1iNzM4LTIzYzZlMDI3MzQxZgAAAAQdanVtYgAAAClqdW1kYzJhcwARABCAAACqADibcQNjMnBhLmFzc2VydGlvbnMAAAAC52p1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5oYXNoLmJveGVzAAAAABhjMnNorgb23yMNvxiB46XY85RZiAAAAp5jYm9yomNhbGdmc2hhMjU2ZWJveGVzjKNlbmFtZXOBY1NPSWRoYXNoWCBxVjrYAGFAft6cbzFoNihL03EKUgxaeSte2hy3A2kIFWNwYWRAo2VuYW1lc4FkQzJQQWRoYXNoQQBjcGFkQKNlbmFtZXOBZEFQUDBkaGFzaFggZghNsgxwUgc65MvBDD5KYQ5GOs6iMPrFUwk/5LYzFiNjcGFkQKNlbmFtZXOBY0RRVGRoYXNoWCCpCKD5ZtuNKbhUfRpxu4HMpI0tx2V47fnZct88cL+gcmNwYWRAo2VuYW1lc4FjRFFUZGhhc2hYIHTyHwfplI97RZ9zn7YPvc0to5v7Wsp5Qi5sBzd29OOQY3BhZECjZW5hbWVzgWRTT0YwZGhhc2hYIEOZIfOKtsMxQseaNacrnLcTTB8dbyaLAxbzRV5+xedVY3BhZECjZW5hbWVzgWNESFRkaGFzaFggi33gSmKpOgwEasSxD71IHV762BXSHCZWJT7LoAa233BjcGFkQKNlbmFtZXOBY0RIVGRoYXNoWCAqabdjzjoE8U/M1CiRaSX4mnCr/X6/ak691R9jR4ft42NwYWRAo2VuYW1lc4FjREhUZGhhc2hYIPNXdg8p1I1tkgB5cC7JtIgNxzQTJvEup/Xr9nXv0aHsY3BhZECjZW5hbWVzgWNESFRkaGFzaFggYn9oeDtfUFm8zmTdUOIdC564oIMFHxBdaoCnYM0qVk5jcGFkQKNlbmFtZXOBY1NPU2RoYXNoWCBypmId7UsYnpgqVADskIr79hQfCwU5Utbb4jJt0OQfNWNwYWRAo2VuYW1lc4FjRU9JZGhhc2hYIM3mbnjlQZ3qdN989D2aqHa4xmnUAGeZLnGc75CsXz/gY3BhZAAAAA==",
+    "version": "2.9.0",
+    "updated": "2026-03-20T07:34:42Z",
+    "home": "https://github.com/SaXz2/orca-tabs-plugin",
+    "zip": "https://github.com/SaXz2/orca-tabs-plugin/releases/download/v2.9.0/orca-tabs-plugin.zip",
+    "translations": {
+      "zh": {
+        "name": "标签页管理",
+        "description": "为虎鲸笔记提供浏览器式标签页管理，支持多面板、工作区、拖拽排序及最近关闭标签等功能。",
+        "category": "可视化"
+      }
+    }
+  },
+  {
+    "author": "SaXz2",
+    "id": "tana-tag-color",
+    "name": "Tana Tag Color",
+    "description": "Applies Tana-style colors and icons to tagged blocks in Orca Note, with block-level color overrides and real-time updates.",
+    "category": "Visualization",
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\"><circle cx=\"50\" cy=\"50\" r=\"45\" fill=\"#f8f9fa\" stroke=\"#dee2e6\" stroke-width=\"2\"/><g transform=\"translate(50, 50)\"><path d=\"M -20 -15 L 15 -15 L 20 0 L 15 15 L -20 15 Z\" fill=\"#6366f1\" stroke=\"#4f46e5\" stroke-width=\"2\"/><circle cx=\"-12\" cy=\"0\" r=\"3\" fill=\"#f8f9fa\"/><circle cx=\"5\" cy=\"-5\" r=\"4\" fill=\"#f59e0b\" opacity=\"0.9\"/><circle cx=\"8\" cy=\"3\" r=\"4\" fill=\"#10b981\" opacity=\"0.9\"/><circle cx=\"2\" cy=\"8\" r=\"4\" fill=\"#ef4444\" opacity=\"0.9\"/></g><defs><radialGradient id=\"shine\" cx=\"30%\" cy=\"30%\"><stop offset=\"0%\" style=\"stop-color:#ffffff;stop-opacity:0.3\"/><stop offset=\"100%\" style=\"stop-color:#ffffff;stop-opacity:0\"/></radialGradient></defs><circle cx=\"50\" cy=\"50\" r=\"45\" fill=\"url(#shine)\" pointer-events=\"none\"/></svg>",
+    "version": "1.2.1",
+    "updated": "2026-03-20T07:35:47Z",
+    "home": "https://github.com/SaXz2/orca-tana-tag-color-plugin",
+    "zip": "https://github.com/SaXz2/orca-tana-tag-color-plugin/releases/download/v1.2.1/orca-tana-tag-color-plugin-v1.2.1.zip",
+    "translations": {
+      "zh": {
+        "name": "Tana 标签颜色",
+        "description": "为虎鲸笔记中带标签的块应用 Tana 风格的颜色和图标样式，支持块级颜色覆盖和实时更新。",
+        "category": "可视化"
+      }
+    }
+  },
+  {
+    "author": "SaXz2",
+    "id": "today",
+    "name": "Today",
+    "description": "Smart Today tag manager for Orca Note that automatically adds and updates date properties on blocks tagged with #Today.",
+    "category": "Productivity",
+    "icon_svg": "<svg width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"64\" height=\"64\" rx=\"8\" fill=\"#4A90E2\"/><text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"24\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"white\">T</text></svg>",
+    "version": "1.0.1",
+    "updated": "2026-03-20T07:36:05Z",
+    "home": "https://github.com/SaXz2/orca-today-plugins",
+    "zip": "https://github.com/SaXz2/orca-today-plugins/releases/download/v1.0.1/orca-today-plugin.zip",
+    "translations": {
+      "zh": {
+        "name": "Today 标签管理",
+        "description": "一个智能 Today 标签管理插件，自动为带有 #Today 标签的块添加和更新日期属性。",
+        "category": "效率工具"
+      }
+    }
+  },
+  {
+    "author": "SaXz2",
+    "id": "video-info-extract",
+    "name": "Video Info Extract",
+    "description": "Extracts video information, thumbnails, and creator details from Bilibili, YouTube, and Vimeo links in Orca Note.",
+    "category": "Integration",
+    "icon_svg": "<svg width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"#00A1D6\" stroke=\"#0084B4\" stroke-width=\"2\"/><path d=\"M20 18 L20 46 L44 32 L20 18 Z\" fill=\"white\"/><path d=\"M16 16 L20 20 L16 24 L16 16 Z\" fill=\"#FF6B6B\"/><path d=\"M48 16 L52 20 L48 24 L48 16 Z\" fill=\"#4ECDC4\"/><rect x=\"18\" y=\"48\" width=\"28\" height=\"2\" rx=\"1\" fill=\"white\" opacity=\"0.8\"/><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#00A1D6\"/></svg>",
+    "version": "1.4.3",
+    "updated": "2026-03-20T07:36:22Z",
+    "home": "https://github.com/SaXz2/orca-video-info-extract-plugin",
+    "zip": "https://github.com/SaXz2/orca-video-info-extract-plugin/releases/download/v1.4.3/orca-video-info-extract-plugin.zip",
+    "translations": {
+      "zh": {
+        "name": "视频信息提取",
+        "description": "自动提取哔哩哔哩、YouTube 和 Vimeo 视频信息、缩略图及创作者信息，并设置为 Orca 标签属性。",
+        "category": "集成工具"
+      }
+    }
+  },
+  {
     "author": "sethyuan",
     "id": "dinox-sync",
     "name": "Dinox Sync",
