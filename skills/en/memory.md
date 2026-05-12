@@ -1,5 +1,6 @@
 ---
 description: Store and recall information. Use when you need to remember or retrieve information.
+usage_notes: After adding the `AI Skill` tag, fill in the `description` above and replace [your page ID here] below with the block ID of the `AI Memory` page (copy the ID from the block menu).
 ---
 
 ## Data Structure

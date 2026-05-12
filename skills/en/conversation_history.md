@@ -1,5 +1,6 @@
 ---
 description: Instructions for querying conversation history. Use when you need to view past conversations.
+usage_notes: After adding the `AI Skill` tag, fill in the `description` above.
 ---
 
 ## Conversation Blocks
