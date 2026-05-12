@@ -10,15 +10,8 @@
 
 ### 目录
 
-- [插件](#插件)
-  - [生产力工具](#生产力工具)
-  - [笔记管理](#笔记管理)
-  - [格式化与编辑](#格式化与编辑)
-  - [导入导出](#导入导出)
-  - [集成](#集成)
-  - [可视化](#可视化)
-  - [开发工具](#开发工具)
-- [主题](#主题)
+- [插件与主题](#插件与主题)
+- [技能](#技能)
 - [资源](#资源)
   - [官方资源](#官方资源)
   - [教程](#教程)
@@ -28,76 +21,15 @@
 
 ---
 
-### 插件
+### 插件与主题
 
-#### 生产力工具
-
-提升您的生产力和工作流程的插件。
-
-- **[Flash Cards](https://github.com/Samuelxiaozhuofeng/orca-srs-plugin)** - 为 Orca Note 提供的间隔复习（SRS）插件。 [@Samuelxiaozhuofeng](https://github.com/Samuelxiaozhuofeng)
-- **[Random Walk](https://github.com/sethyuan/orca-random-walk)** - 帮助你回顾/复习笔记的插件（随机漫步复盘）。 [@sethyuan](https://github.com/sethyuan)
-- **[Simple Task](https://github.com/sethyuan/orca-simple-task)** - 帮助你使用 Orca Note 的标签系统快速创建任务的插件。 [@sethyuan](https://github.com/sethyuan)
-- **[Snippets](https://github.com/SaXz2/orca-snippets-plugin)** - JS 和 CSS 代码片段管理插件。 [@SaXz2](https://github.com/SaXz2)
-- **[Task Confetti](https://github.com/sethyuan/task-confetti)** - 任务完成时播放五彩纸屑特效。 [@sethyuan](https://github.com/sethyuan)
-- **[Task Planner](https://github.com/litcu/orca-plugin-task-planner)** - 高级任务规划插件，支持依赖关系、优先级评分、重复任务、回顾周期与自定义视图。 [@litcu](https://github.com/litcu)
-- **[Today](https://github.com/SaXz2/orca-today-plugins)** - 添加 Today 标签的笔记会自动置顶到当天日记的引用列表。 [@SaXz2](https://github.com/SaXz2)
-- **[恐龙工具箱](https://github.com/hqweay/orca-hqweay-go)** - 提供：中文排版一键格式化；行内样式清理；VoiceNotes 同步；CSV、Markdown 导入…… [@hqweay](https://github.com/hqweay)
-
-#### 笔记管理
-
-用于组织、搜索和管理笔记的插件。
-
-- **[EasyMotion](https://github.com/SaXz2/orca-EasyMotion-plugin)** - 类似 Vim 的快速光标跳转导航插件，支持中文、拼音、英文混合搜索。 [@SaXz2](https://github.com/SaXz2)
-- **[Folder](https://github.com/SaXz2/orca-folder-plugin)** - 文档树插件。 [@SaXz2](https://github.com/SaXz2)
-- **[Linker](https://github.com/sethyuan/orca-plugin-linker)** - 帮助将大型资源放在 Orca Note 外管理，并创建虚拟路径以引用这些资源的插件。 [@sethyuan](https://github.com/sethyuan)
-- **[Page Display](https://github.com/SaXz2/orca-page-display-plugins)** - 页面空间显示插件，提供直观的页面导航和空间管理功能。⚠️ 未完成品 [@SaXz2](https://github.com/SaXz2)
-
-#### 格式化与编辑
-
-增强文本格式化和编辑功能的插件。
-
-- **[Hidden Text](https://github.com/sethyuan/orca-plugin-hidden-text)** - 提供隐藏选中文本功能的插件（可用于折叠/遮掩内容）。 [@sethyuan](https://github.com/sethyuan)
-- **[Link Icons](https://github.com/SaXz2/orca-link_icons-plugin)** - 为链接添加图标显示的插件。 [@SaXz2](https://github.com/SaXz2)
-
-#### 导入导出
-
-用于导入或导出各种格式的插件。
-
-- **[Share Card](https://github.com/sethyuan/orca-plugin-share-card)** - 将笔记导出为卡片（图片）以便在手机上分享的插件。 [@sethyuan](https://github.com/sethyuan)
-
-#### 集成
-
-将 Orca Note 与其他应用程序和服务集成的插件。
-
-- **[AI Chat](https://github.com/Samuelxiaozhuofeng/AI-orca-plugin)** - 为 Orca Note 提供的 AI 聊天插件。 [@Samuelxiaozhuofeng](https://github.com/Samuelxiaozhuofeng)
-- **[Dinox Sync](https://github.com/sethyuan/orca-dinox-sync)** - 将 Dinox 笔记同步到 Orca Note 的插件（同步到日记）。 [@sethyuan](https://github.com/sethyuan)
-- **[Flomo Sync](https://github.com/sethyuan/orca-flomo-sync)** - 将 Flomo 笔记同步到 Orca Note 的插件（同步到日记）。 [@sethyuan](https://github.com/sethyuan)
-- **[Video Info Extract](https://github.com/SaXz2/orca-video-info-extract-plugin)** - 自动提取哔哩哔哩、YouTube 和 Vimeo 视频信息、缩略图、频道信息等，并设置为标签属性。 [@SaXz2](https://github.com/SaXz2)
-
-#### 可视化
-
-用于可视化数据、图表和关系的插件。
-
-- **[Dockpanel](https://github.com/cordinGH/orca-dockpanel-plugin)** - 允许将一个面板脱离出来，形成类似于「小窗」的体验。 [@cordinGH](https://github.com/cordinGH)
-- **[Table Layout](https://github.com/sethyuan/orcanote-table-layout)** - 为复杂布局格式化表格块的 Orca Note 插件。 [@sethyuan](https://github.com/sethyuan)
-- **[Tabs](https://github.com/SaXz2/orca-tabs-plugin)** - 标签页显示插件。 [@SaXz2](https://github.com/SaXz2)
-- **[Tabsman](https://github.com/cordinGH/orca-tabsman-plugin)** - 在左侧边栏追加一个标签页栏。 [@cordinGH](https://github.com/cordinGH)
-- **[Tana Tag Color](https://github.com/SaXz2/orca-tana-tag-color-plugin)** - 仿照 Tana 风格，使用第一个标签为块的无序点应用颜色和图标。 [@SaXz2](https://github.com/SaXz2)
-
-#### 开发工具
-
-为使用 Orca Note 的开发者提供的工具和插件。
-
-- **[orca-plugin-template](https://github.com/sethyuan/orca-plugin-template)** - 为构建 Orca Note 插件提供的基础模板（入门示例）。 [@sethyuan](https://github.com/sethyuan)
+请查看应用内的插件市场。
 
 ---
 
-### 主题
+### 技能
 
-美化 Orca Note 外观的主题。
-
-- **[Official Themes](https://github.com/sethyuan/orca-plugin-official-themes)** - Orca Note 的官方主题集合，提供可安装的主题样式。 [@sethyuan](https://github.com/sethyuan)
-- **[Tune Theme](https://github.com/cordinGH/orca-tune-theme)** - Orca Note 用户主题。 [@cordinGH](https://github.com/cordinGH)
+可与应用内置 AI 助手一起使用的技能，请参见 [skills 文件夹](skills/)。
 
 ---
 
@@ -105,18 +37,18 @@
 
 #### 官方资源
 
-- [官网](https://www.orca-studio.com/orcanote/zh/)
+- [官网](https://www.orca-studio.com/orcanote/)
 - [官方仓库](https://github.com/sethyuan/orca-note)
 - [插件文档](https://www.orca-studio.com/orcanote-docs/documents/Quick_Start.html)
-- [Agent Skills](https://github.com/sethyuan/orcanote-agent-skills) - 为 AI 智能体提供的虎鲸笔记相关技能与自定义Agent集合。
+- [Agent Skills](https://github.com/sethyuan/orcanote-agent-skills) - 为 AI 智能体与 Orca Note 交互提供的一组技能与自定义代理。
 
 #### 教程
 
-使用 Orca Note 和开发插件的教程和指南。
+- Bilibili 上的一系列[入门视频](https://space.bilibili.com/14693676)。
 
 #### 社区
 
-- QQ 频道 ID: hujingbiji
+- [Discord](https://discord.gg/qsVfJRxcey)
 
 ---
 
