@@ -12,6 +12,7 @@
 
 - [Plugins & Themes](#plugins--themes)
 - [Skills](#skills)
+- [CLI](#cli)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [Tutorials](#tutorials)
@@ -30,6 +31,12 @@ See the in-app plugin marketplace.
 ### Skills
 
 Skills you can use with the app's built-in AI assistant see the [skills folder](skills/).
+
+---
+
+### CLI
+
+A companion [CLI app](https://github.com/sethyuan/orca-note-cli) that can be used by AI agents.
 
 ---
 
