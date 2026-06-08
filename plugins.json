@@ -174,17 +174,17 @@
     "author": "SaXz2",
     "id": "snippets",
     "name": "Snippets",
-    "description": "A CSS and JavaScript code snippet manager for Orca Note with syntax highlighting, search, and import/export.",
+    "description": "A CSS and JavaScript snippet manager for Orca Note with syntax highlighting, search, import/export, global toggles, single-snippet export, and safer JS cleanup.",
     "category": "Editing",
     "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" width=\"32\" height=\"32\"><path d=\"M9.5 8.917c-0.391 0-0.745 0.159-1.002 0.415l-5.667 5.667c-0.256 0.256-0.415 0.611-0.415 1.002s0.158 0.745 0.415 1.002l5.667 5.667c0.256 0.256 0.611 0.415 1.002 0.415s0.745-0.159 1.002-0.415v0c0.256-0.256 0.415-0.61 0.415-1.002s-0.159-0.745-0.415-1.002l-4.665-4.665 4.665-4.665c0.256-0.256 0.415-0.611 0.415-1.002s-0.159-0.745-0.415-1.002v0c-0.256-0.256-0.61-0.415-1.002-0.415v0z\" fill=\"currentColor\"/><path d=\"M22.5 8.917c-0.391 0-0.745 0.159-1.002 0.415v0c-0.256 0.256-0.415 0.611-0.415 1.002s0.159 0.745 0.415 1.002l4.665 4.665-4.665 4.665c-0.256 0.256-0.415 0.61-0.415 1.002s0.159 0.745 0.415 1.002v0c0.256 0.256 0.61 0.415 1.002 0.415s0.745-0.159 1.002-0.415l5.667-5.667c0.256-0.256 0.415-0.611 0.415-1.002s-0.158-0.745-0.415-1.002l-5.667-5.667c-0.256-0.256-0.611-0.415-1.002-0.415v0z\" fill=\"currentColor\"/><path d=\"M19.965 3.314c-0.127-0.041-0.273-0.065-0.424-0.065-0.632 0-1.167 0.413-1.35 0.985l-0.003 0.010-7.083 22.667c-0.041 0.127-0.065 0.273-0.065 0.424 0 0.632 0.413 1.167 0.985 1.35l0.010 0.003c0.127 0.041 0.273 0.065 0.424 0.065 0.632 0 1.167-0.413 1.35-0.985l0.003-0.010 7.083-22.667c0.041-0.127 0.065-0.273 0.065-0.424 0-0.632-0.413-1.167-0.985-1.35l-0.010-0.003z\" fill=\"currentColor\"/></svg>",
-    "version": "1.0.2",
-    "updated": "2026-03-20T07:34:01Z",
+    "version": "1.0.3",
+    "updated": "2026-06-08T04:54:22Z",
     "home": "https://github.com/SaXz2/orca-snippets-plugin",
-    "zip": "https://github.com/SaXz2/orca-snippets-plugin/releases/download/v1.0.2/orca-snippets-plugin.zip",
+    "zip": "https://github.com/SaXz2/orca-snippets-plugin/releases/download/v1.0.3/orca-snippets-plugin.zip",
     "translations": {
       "zh": {
         "name": "代码片段管理器",
-        "description": "一个为虎鲸笔记设计的 CSS 和 JavaScript 代码片段管理插件，支持语法高亮、搜索及导入导出。",
+        "description": "一个为 Orca Note 设计的 CSS 和 JavaScript 代码片段管理插件，支持语法高亮、搜索、导入导出、总开关、单条导出和更安全的 JS 清理。",
         "category": "编辑工具"
       }
     }
