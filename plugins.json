@@ -1085,6 +1085,25 @@
     "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"128\" height=\"128\" viewBox=\"0 0 128 128\"><rect x=\"8\" y=\"8\" width=\"112\" height=\"112\" rx=\"28\" fill=\"#0d9488\"/><circle cx=\"64\" cy=\"64\" r=\"33\" stroke=\"#ffffff\" stroke-width=\"10\" fill=\"none\"/><circle cx=\"64\" cy=\"64\" r=\"4.5\" fill=\"#ffffff\"/><path d=\"M64 44 L64 64 L80 76\" stroke=\"#ffffff\" stroke-width=\"9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/></svg>"
   },
   {
+    "id": "lets-workbench",
+    "author": "hqweay",
+    "name": "Workbench",
+    "description": "A component-based dashboard: render note blocks natively, random cards, weather widgets, and let AI assemble and arrange the layout.",
+    "category": "Productivity",
+    "version": "4.7.0",
+    "updated": "2026-08-19T00:00:00.000Z",
+    "home": "https://github.com/hqweay/orca-hqweay-go",
+    "zip": "https://github.com/hqweay/orca-hqweay-go/releases/download/v4.7.0/lets-workbench.zip",
+    "translations": {
+      "zh": {
+        "name": "工作台",
+        "description": "组件化信息面板：块渲染、随机卡片、天气等组件，AI 生成与编排布局。",
+        "category": "效率工具"
+      }
+    },
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"128\" height=\"128\" viewBox=\"0 0 128 128\"> <rect x=\"8\" y=\"8\" width=\"112\" height=\"112\" rx=\"28\" fill=\"#7c3aed\"/> <rect x=\"22\" y=\"22\" width=\"48\" height=\"48\" rx=\"12\" fill=\"#ffffff\"/> <rect x=\"80\" y=\"22\" width=\"26\" height=\"48\" rx=\"12\" fill=\"#ffffff\" opacity=\"0.75\"/> <rect x=\"22\" y=\"80\" width=\"26\" height=\"26\" rx=\"9\" fill=\"#ffffff\" opacity=\"0.75\"/> <rect x=\"58\" y=\"80\" width=\"48\" height=\"26\" rx=\"9\" fill=\"#ffffff\" opacity=\"0.55\"/> </svg>"
+  },
+  {
     "id": "orca-neo",
     "author": "Eon-Wen",
     "name": "Orca Neo",
